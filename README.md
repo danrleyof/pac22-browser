@@ -4,7 +4,7 @@
 
 <h1 align="center">Pac22 Browser ( Open Source )</h1>
 
-# Baseado em ( Pyside6 + Qt Engine )" tu vai deixar assim "Baseado em ( Pyside6 + Qt Engine + Python )
+# Baseado em ( Pyside6 + Qt Engine + Python )
 
 ## Instalação de dependências
 <p>
