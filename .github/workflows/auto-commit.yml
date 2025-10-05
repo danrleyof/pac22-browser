@@ -1,8 +1,8 @@
 name: Update Date
 
 on:
-  workflow_dispatch: # pra tu rodar manualmente
-  push:              # ou toda vez que tu fizer um push
+  workflow_dispatch: 
+  push:             
     branches:
       - main
 
