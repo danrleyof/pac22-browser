@@ -11,7 +11,6 @@
 <b>| Recomendado uso do Python3 |</b>
 </p>
 
-
 - <b>Arch / Manjaro</b>
 
 Git clone
