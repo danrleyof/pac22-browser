@@ -1,4 +1,4 @@
-name: Adicionar contribuição do bot
+name: Update Date
 
 on:
   workflow_dispatch: # pra tu rodar manualmente
